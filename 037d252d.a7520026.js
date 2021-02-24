@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{73:function(o){o.exports=JSON.parse('{"allTagsPath":"/nice-router/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/nice-router/blog/tags/hola"}')}}]);
